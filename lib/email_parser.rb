@@ -12,11 +12,7 @@ class EmailParser
  end   
   
  def parse
-   #binding.pry
    self.emails.split(/\,| /).reject {|elem| elem.empty?}.uniq
-   
- 
  end  
-
 
 end   
