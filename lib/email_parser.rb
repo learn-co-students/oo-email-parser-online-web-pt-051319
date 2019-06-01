@@ -16,5 +16,4 @@ class EmailParser
    #can just call emails directly
      # emails.split(/, | /).uniq
  end  
-
 end   
