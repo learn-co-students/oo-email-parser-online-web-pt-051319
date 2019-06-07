@@ -1,4 +1,14 @@
-# Build a class EmailParser that accepts a string of unformatted 
-# emails. The parse method on the class should separate them into
-# unique email addresses. The delimiters to support are commas (',')
-# or whitespace (' ').
+def attr_accessor
+class Email
+  email = "john@doe.com", 
+  
+end
+
+EmailParser.new(emails)
+
+parser.parser
+
+end
+
+
+
